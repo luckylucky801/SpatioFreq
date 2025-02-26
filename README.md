@@ -1,7 +1,7 @@
 # SpatioFreq
 Spatial transcriptomics
 
-![](https://github.com/JinmiaoChenLab/GraphST/blob/main/GraphST.jpg)
+![](SpatioFreq.jpg)
 
 ## Requirements
 You'll need to install the following packages in order to run the codes.
