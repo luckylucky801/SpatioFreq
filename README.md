@@ -1,7 +1,7 @@
 # SpatioFreq
 Spatial transcriptomics
 
-![](SpatioFreq.jpg)
+![](fig1.jpg)
 
 ## Requirements
 You'll need to install the following packages in order to run the codes.
